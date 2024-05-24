@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "269869397651",
+    "firebase_url": "https://cogito-efce7-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "cogito-efce7",
+    "storage_bucket": "cogito-efce7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269869397651:android:6a207eb463e3a84fbeff66",
+        "android_client_info": {
+          "package_name": "com.cogitodev.org.cogito"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQfW4PjpOa-UG3cLq7VObfXPOx1RNhlQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269869397651:android:b73a86a82c1ac040beff66",
+        "android_client_info": {
+          "package_name": "com.cogitodev.org.cogito2boilerplate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQfW4PjpOa-UG3cLq7VObfXPOx1RNhlQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
